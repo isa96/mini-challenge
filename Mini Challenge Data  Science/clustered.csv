@@ -1,0 +1,455 @@
+,street,level,median_length,median_delay,median_speed_kmh,total_records,median_level,cluster_km
+0,Pahlawan,3,868,136,15,21,3,2
+1,Tol Lingkar Luar Bogor,2,2189,121,36,8,2,1
+2,KH Soleh Iskandar (Jalur Lambat),4,260,32,3,47,4,0
+3,N8 Jalan Raya Sukabumi,2,752,107,14,10,2,2
+4,N9 Jalan Raya Pajajaran,2,1237,132,19,39,2,1
+5,N9 Jalan Raya Tajur,2,1597,162,20,34,2,1
+6,Tol Jagorawi,2,1918,129,30,8,2,1
+7,Merdeka,3,574,111,12,10,3,2
+8,Mawar,3,199,174,4,9,3,0
+9,Surya Kencana,2,800,216,10,15,2,2
+10,N8 Jalan Raya Bogor,3,814,126,15,31,3,2
+11,N9 Raden KH Abdullah bin Nuh,3,1068,154,17,28,3,1
+12,Kapten Muslihat,3,534,153,10,21,3,2
+13,Letjen Ibrahim Adjie,2,938,117,17,20,2,1
+14,N9 Jalan Raya Dramaga,3,1028,212,15,41,3,1
+15,N9 Jalan Raya Ciawi,3,949,157,14,12,3,1
+16,Kapten Yusuf,2,671,158,11,20,2,2
+17,Kedunghalang Raya,2,1187,110,18,13,2,1
+18,Kolonel Ahmad Syam,2,724,126,13,9,2,2
+19,Mayjen Ishak Djuarsa,2,1169,121,19,19,2,1
+20,Veteran,2,666,121,13,10,2,2
+21,N9 Ir Haji Juanda,2,1501,111,24,19,2,1
+22,N9 Jalak Harupat,2,946,138,16,19,2,1
+23,Tumenggung Wiradireja,2,613,114,10,9,2,2
+24,Pulo Empang,3,524,155,9,15,3,2
+25,N9 KS Tubun,3,479,116,9,17,3,2
+26,Ciomas Raya,2,706,120,13,9,2,2
+27,Brigjen Saptadji Hadi Prawira,2,1131,135,18,15,2,1
+28,Cilebut Raya,2,835,110,14,12,2,2
+29,Drs Saleh Danasamita,3,350,127,7,7,3,0
+30,Dr Sumeru,2,1158,112,18,17,2,1
+31,Ence Sumartadireja,2,681,110,12,10,2,2
+32,Jalan Empang,3,419,138,8,20,3,0
+33,Jenderal Ahmad Yani,3,804,115,15,13,3,2
+34,Pandu Raya,2,838,104,16,6,2,2
+35,Semplak Raya,2,876,165,14,16,2,2
+36,Dereded,3,350,179,6,10,3,0
+37,Dewi Sartika,3,278,140,5,8,3,0
+38,Jalan Salak,2,611,104,13,6,2,2
+39,Jenderal Sudirman,2,1070,115,19,22,2,1
+40,Kebon Pedes,2,702,92,13,7,2,2
+41,RE Abdullah,3,504,130,10,12,3,2
+42,N9 KH Soleh Iskandar,3,950,126,18,21,3,1
+43,N9 Otto Iskandardinata,3,670,120,15,19,3,2
+44,Pandawa Raya,3,453,150,7,9,3,2
+45,Pangeran Asogiri,2,781,99,13,9,2,2
+46,Perintis Kemerdekaan,2,413,89,10,8,2,0
+47,Taman Cimanggu Raya,2,794,107,14,10,2,2
+48,TB M Falak,2,722,181,12,10,2,2
+49,Tentara Pelajar,2,827,102,15,9,2,2
+50,Wijaya Kusuma,2,474,88,9,7,2,2
+51,Tajur Halang,2,482,98,9,6,2,2
+52,Taman Raya,2,481,114,10,7,2,2
+53,Paledang,3,559,156,11,9,3,2
+54,Batu Tulis,3,628,197,11,13,3,2
+55,Jalan Cimahpar,2,530,106,11,8,2,2
+56,N6 Jalan Raya Baru,2,1366,102,23,8,2,1
+57,Padi,3,376,136,8,16,3,0
+58,Binamarga,2,641,132,12,11,2,2
+59,Cilubang Mekar,2,624,153,9,6,2,2
+60,Cimanggu Raya,1,563,98,9,8,1,2
+61,Laladon Raya,2,599,112,11,9,2,2
+62,Mandala Raya,3,393,154,7,7,3,0
+63,N9 Underpass KH Soleh Iskandar,3,580,206,10,14,3,2
+64,Pancasan Atas,3,443,143,9,8,3,2
+65,Parung Banteng,2,620,104,10,8,2,2
+66,Pengadilan,3,261,143,5,8,3,0
+67,Sancang,2,352,116,8,9,2,0
+68,Siliwangi,2,826,133,14,12,2,2
+69,Sukasari,3,421,118,10,17,3,0
+70,RE Martadinata,3,759,119,12,11,3,2
+71,Terusan Pajajaran,3,358,139,8,16,3,0
+72,Sinangling Padi Ramp,3,190,119,5,12,3,0
+73,RH Soelaeman A Kartadjoemena,2,522,116,8,8,2,2
+74,Aria Suryalaga,3,180,156,4,11,3,0
+75,Atang Sanjaya,2,832,134,12,10,2,2
+76,Curug Induk,2,184,118,4,12,2,0
+77,HM Syarifudin,2,629,99,11,7,2,2
+78,N9 Cifor,3,240,117,6,17,3,0
+79,Pemuda,2,1121,98,20,7,2,1
+80,Achmad Adnawijaya,2,706,115,13,12,2,2
+81,Bogor Nirwana Residence,2,485,104,10,7,2,2
+82,Exit Baranangsiang,4,523,201,10,20,4,2
+83,Jalan Sukaraja,2,593,101,11,8,2,2
+84,Pajajaran Indah 5,2,486,141,9,7,2,2
+85,Sumurwangi,3,814,166,13,11,3,2
+86,Pakuan 1,2,383,89,8,8,2,0
+87,Bogor Baru Raya,2,469,118,10,7,2,2
+88,Cidangiang,2,344,87,8,6,2,0
+89,Cilebut Residence 2,4,304,128,7,10,4,0
+90,Cimanggu Kecil,3,404,81,11,6,3,0
+91,Dadali,3,598,123,12,8,3,2
+92,Pakuan,2,420,103,8,6,2,0
+93,Akses Tol Tajur,4,179,178,3,14,4,0
+94,Exit Tanah Baru/Sukaraja/Baranangsiang,4,196,163,4,15,4,0
+95,Ir Haji Juanda,4,189,78,5,16,4,0
+96,Jalan Bangka,3,301,201,4,8,3,0
+97,Gedong Sawah 4,2,211,98,5,7,2,0
+98,Jalan Lingkar Dramaga,2,601,196,9,10,2,2
+99,Cibeureum Raya,2,497,127,8,8,2,2
+100,Cipaku Raya,2,611,93,11,7,2,2
+101,Durian Raya,2,447,106,9,7,2,2
+102,Haji Achmad Sobana,2,614,96,13,6,2,2
+103,Jalan Pangrango,3,210,97,5,4,3,0
+104,Kumbang,3,286,116,6,8,3,0
+105,Bakom,3,788,302,11,8,3,2
+106,Bukit Cimanggu City Raya,3,496,115,9,5,3,2
+107,Jalan Danau Bogor Raya,3,544,122,10,8,3,2
+108,KH Ahmad Sya'yani,2,510,98,9,6,2,2
+109,N8 Jalan Raya Pajajaran,2,87,79,2,16,2,0
+110,Pasir Kuda,3,615,155,12,7,3,2
+111,Rambutan Raya,3,276,94,7,7,3,0
+112,Sawojajar,3,381,139,9,7,3,0
+113,N6 Jalan Raya Kemang-Bogor,2,1205,100,21,5,2,1
+114,Panorama,3,230,88,6,6,3,0
+115,Tegallega,2,313,127,6,8,2,0
+116,Kranji Ujung,3,270,144,6,7,3,0
+117,Katulampa Raya,2,524,109,10,6,2,2
+118,Lawang Gintung,2,602,138,12,7,2,2
+119,Gang Waru,3,514,154,10,8,3,2
+120,Cangkrang Raya,3,524,98,11,8,3,2
+121,Indigo Raya,4,320,102,8,8,4,0
+122,Cemplang Baru Utama,3,724,356,9,7,3,2
+123,Haji Aedo K,4,552,187,9,8,4,2
+124,Malabar 2,3,269,124,7,4,3,0
+125,Curug Mekar Raya,2,284,112,5,7,2,0
+126,Jabaru 2,2,293,111,7,7,2,0
+127,Tol Bocimi,1,4595,150,51,6,1,3
+128,Exit Tol Tajur,4,466,247,7,20,4,2
+129,Batara,2,826,143,15,10,2,2
+130,Mandalawangi,1,170,68,4,8,1,0
+131,Orchard Walk,3,396,138,8,6,3,0
+132,Warung Nangka,1,797,106,12,6,1,2
+133,Jalan R3 Katulampa,2,971,116,18,7,2,1
+134,Gedong Sawah,3,208,113,5,5,3,0
+135,Cifor,3,568,125,11,7,3,2
+136,Arah Sukasari/Tajur,4,149,114,4,9,4,0
+137,Cijeruk Raya,1,484,84,8,8,1,2
+138,Kenanga Permai,3,541,117,13,11,3,2
+139,Rancamaya Utama,2,615,92,12,7,2,2
+140,Babakan Raya,3,289,137,6,8,3,0
+141,Roda,3,254,119,5,6,3,0
+142,Cijahe,4,247,96,6,4,4,0
+143,Flamboyan,3,671,188,11,5,3,2
+144,Pajajaran (Jalur Lambat),4,229,145,5,8,4,0
+145,Arah Bogor Kota/Kebun Raya,3,120,129,3,11,3,0
+146,Margajaya - Neglasari,2,293,104,6,9,2,0
+147,Pajajaran Indah,4,196,113,5,5,4,0
+148,Tawakal,3,450,99,12,7,3,2
+149,Yasmin Raya,3,390,118,8,5,3,0
+150,MA Salmun,2,325,111,8,8,2,0
+151,Gerbang Tol Bogor Selatan,3,352,157,7,6,3,0
+152,Kresna Raya,3,379,100,7,5,3,0
+153,Bumi Kencana Permai,1,782,107,11,7,1,2
+154,Sindang Barang Jero,2,430,124,7,6,2,0
+155,Taman Pangrango,3,216,113,5,7,3,0
+156,Warung Bandrek,2,345,126,4,7,2,0
+157,Pakuan Hill Raya,3,365,95,9,7,3,0
+158,Rancamaya,2,582,92,13,8,2,2
+159,Cilubang lebak,2,502,129,8,6,2,2
+160,Bojongkerta Rancamaya,3,794,321,12,8,3,2
+161,Cilubang Nagrak,2,276,110,6,7,2,0
+162,Exit 6: Yasmin/Dramaga/Parung,3,466,152,10,11,3,2
+163,Flyover Martadinata,3,375,150,8,14,3,0
+164,Jalan Kampung Mulyasari,3,974,174,17,10,3,1
+165,Kaumsari,2,238,103,5,7,2,0
+166,Mandala 2,3,200,104,5,6,3,0
+167,Mayor Oking,3,240,156,5,7,3,0
+168,Ciherang Raya,2,611,123,8,6,2,2
+169,Kali Murni,2,402,100,8,6,2,0
+170,Mekar Saluyu,4,303,97,6,4,4,0
+171,Sempur,3,259,96,5,6,3,0
+172,Bojong Jengkol,3,503,131,11,8,3,2
+173,Sukamantri Pondok Bitung,2,425,93,7,7,2,0
+174,Melati,4,359,104,8,6,4,0
+175,Nuansa Alam Cilebut Asri,4,398,129,9,7,4,0
+176,Raden Khanafiah,2,300,85,6,6,2,0
+177,Guru Muchtar,3,406,115,8,5,3,0
+178,Cogreg,3,598,86,17,6,3,2
+179,Kayumanis,2,403,102,8,5,2,0
+180,Kencana 2 Raya,2,439,88,9,6,2,0
+181,Baranangsiang Indah,2,355,112,7,9,2,0
+182,Jalan Kampung Buntar,3,926,195,15,9,3,1
+183,Lebak Nangka,2,944,152,17,8,2,1
+184,AH Nasution,2,294,251,4,3,2,0
+185,Bojong Menteng,2,264,126,4,4,2,0
+186,Kolonel Enjo Martadisastra,3,236,145,4,6,3,0
+187,Gang Aut,3,320,168,6,9,3,0
+188,Rumah Sakit 1,3,223,327,3,5,3,0
+189,Subur,2,453,129,7,6,2,2
+190,Gang Ace,4,658,284,9,5,4,2
+191,Cendana,3,580,220,12,7,3,2
+192,Kantor Pos 1,2,355,136,6,4,2,0
+193,Malabar 1,2,262,112,5,5,2,0
+194,RH Muh Tohir,3,232,160,4,10,3,0
+195,Cikabuyutan,3,187,166,4,6,3,0
+196,Jalan Ciremai,3,291,138,5,4,3,0
+197,Manunggal,2,407,113,8,7,2,0
+198,Pajajaran 2,4,174,131,4,6,4,0
+199,Pemekaran,3,485,188,9,7,3,2
+200,Bhayangkara Raya,3,211,102,4,9,3,0
+201,Bina Marga 2,2,266,217,4,4,2,0
+202,Jalan Sanggabuana,1,283,154,3,8,1,0
+203,Bubulak,3,461,132,6,8,3,2
+204,Cimanggu Kaum,3,276,136,6,8,3,0
+205,Kebon Pedes 1,2,332,112,6,5,2,0
+206,Unitex,3,434,264,4,7,3,0
+207,Arah Bogor/Lingkar Bogor/Jakarta,2,927,85,21,6,2,1
+208,Sirnagalih,3,326,136,7,4,3,0
+209,Raden Kan'an,2,401,104,8,6,2,0
+210,An Nashr,4,239,236,3,5,4,0
+211,Jalan Danau Limboto,4,224,90,6,10,4,0
+212,Jalan Sukabumi-Rancamaya,2,762,123,13,7,2,2
+213,Mahoni Raya,2,391,106,7,5,2,0
+214,Green Hills,4,231,104,7,4,4,0
+215,Kemang Kukupu,2,296,122,4,5,2,0
+216,Nur Quba,2,260,86,6,4,2,0
+217,Bambu Apus Raya,3,315,73,9,2,3,0
+218,Gerbang Tol Sentul Barat,3,209,146,5,10,3,0
+219,Jalan Pasar Ciluar,2,291,103,6,7,2,0
+220,Jalan Ciujung,2,303,91,7,7,2,0
+221,Arah KS Tubun,4,151,137,4,7,4,0
+222,Pool Bina Marga,3,265,97,7,6,3,0
+223,Belender,3,565,245,8,7,3,2
+224,Arah Tol Lkr Luar Bogor/Tol Jagorawi (Lewat Jalan Tol),3,553,186,10,9,3,2
+225,Merak,3,324,90,8,8,3,0
+226,Cibalok,3,220,188,3,8,3,0
+227,Royal Blvd,3,223,118,5,2,3,0
+228,Cluster Charnwood,4,194,140,5,4,4,0
+229,Arah Simpang Yasmin/Kedung Halang/Sentul lewat Jalan Tol,2,776,95,19,12,2,2
+230,Julang 1,4,239,131,6,9,4,0
+231,Jalan Cijulang,1,535,108,8,9,1,2
+232,Astrid Avenue,4,382,192,8,8,4,0
+233,Arah Bogor/Sukaraja,3,286,144,7,8,3,0
+234,Arah Jakarta (Lewat Jalan Tol),3,495,142,11,12,3,2
+235,Ciwaringin 2,4,340,130,7,2,4,0
+236,Jalan Danau Singkarak,3,155,103,4,10,3,0
+237,Sukadamai,4,228,122,6,8,4,0
+238,Jalan Malabar,2,317,109,7,7,2,0
+239,Bahagia,2,540,131,7,6,2,2
+240,Babakan Tengah,2,307,185,4,8,2,0
+241,Perdana,2,379,98,8,6,2,0
+242,Walet,4,189,124,5,9,4,0
+243,Artzimar 2,2,610,156,8,9,2,2
+244,Mekar Saluyu 1,4,298,139,7,6,4,0
+245,Arah Masuk Jalan Tol,3,448,126,11,5,3,2
+246,Palupuh,4,186,116,4,10,4,0
+247,Sempur Kaler,3,354,122,8,7,3,0
+248,Bungur Raya,4,299,126,7,8,4,0
+249,Pelita Jaya 2,3,370,96,11,4,3,0
+250,Skip,3,357,111,7,11,3,0
+251,Haji Hamid,4,186,80,5,8,4,0
+252,Artzimar 1,2,182,116,4,4,2,0
+253,Artzimar 3,3,531,111,8,7,3,2
+254,Rawajaha,3,413,98,8,7,3,0
+255,Arca Domas,3,154,93,4,11,3,0
+256,Arah Puncak/Ciawi/Sukabumi,2,1083,96,23,5,2,1
+257,Arah Masuk Tol Bogor Lingkar Luar,4,481,230,8,9,4,2
+258,Exit 3: Kedung Halang/Cibinong/Warung Jambu,4,282,168,6,7,4,0
+259,Exit 5: Kd Badak,4,292,163,6,8,4,0
+260,Jalan Pabuaran,2,321,179,5,6,2,0
+261,Mega Mendung,4,188,112,5,10,4,0
+262,Jalan Kayumanis-Bondol,3,255,86,6,4,3,0
+263,Babakan Dramaga,2,937,231,7,6,2,1
+264,N9 Letjen Ibrahim Adjie,4,46,224,1,21,4,0
+265,Jalan Pamoyanan,2,286,109,5,7,2,0
+266,Tunjung Biru,3,382,87,9,4,3,0
+267,Jalan Cimanuk,4,375,159,8,7,4,0
+268,Jalan Pawon,4,169,212,3,6,4,0
+269,Cyberpark Residence,3,611,95,16,7,3,2
+270,Kompleks Brimob,4,305,176,6,3,4,0
+271,Menteng,4,426,238,5,8,4,0
+272,Pagentongan,4,275,160,6,5,4,0
+273,Kantor Batu,3,288,175,5,7,3,0
+274,Nurkas,4,205,207,3,21,4,0
+275,Jalan Sambu,2,322,129,7,11,2,0
+276,Mekar Jaya,1,411,96,6,6,1,0
+277,Ciwaringin,2,221,71,5,5,2,0
+278,Gang Sawo,2,509,98,9,8,2,2
+279,Gang Mesjid Cilendek Timur,2,383,127,5,5,2,0
+280,Ruby Raya,3,580,112,15,11,3,2
+281,Cilibende,4,270,98,6,9,4,0
+282,Pulo Armin,4,183,150,3,5,4,0
+283,Rulita,2,383,113,5,9,2,0
+284,Blok HH Villa Bogor Indah 2,4,227,118,6,9,4,0
+285,Pakuan Raya,2,577,135,8,3,2,2
+286,Bukit Kayu Manis Raya,3,276,96,7,9,3,0
+287,Haji Ahmad Yunus,2,189,79,4,7,2,0
+288,Cempaka,3,332,96,8,5,3,0
+289,Exit 10: Kayu Manis,3,711,122,17,5,3,2
+290,Bambu Raya,3,480,70,12,8,3,2
+291,Bina Insani,4,176,181,3,10,4,0
+292,Ciburial Indah,2,274,87,5,8,2,0
+293,Dahlia 2,4,318,147,7,6,4,0
+294,Poras,4,347,100,8,4,4,0
+295,Terapi 2,4,278,65,8,1,4,0
+296,Bantar Kemang,2,397,99,8,8,2,0
+297,Ciremai Ujung,2,1021,154,9,6,2,1
+298,Pondok Rumput 1,4,263,112,7,9,4,0
+299,Gandaria 2,4,185,118,5,6,4,0
+300,Dekeng Lama,3,879,360,10,6,3,2
+301,Raden Kosasih,2,590,208,5,6,2,2
+302,Gunung Gede 1,2,464,82,9,9,2,2
+303,Pajajaran 1,4,370,143,8,2,4,0
+304,Muhajirin,4,157,111,5,5,4,0
+305,Medika 3B,4,333,133,8,5,4,0
+306,Palayu,4,220,115,5,2,4,0
+307,Tirto Adhi Soerjo,3,326,99,8,9,3,0
+308,Exit 2: Tanah Baru,3,520,103,14,5,3,2
+309,Villa Bogor Indah,3,169,107,4,5,3,0
+310,Bango,4,243,154,5,3,4,0
+311,Sedane,4,509,97,8,5,4,2
+312,Cemara Raya,4,206,132,5,8,4,0
+313,Harmony Raya,3,165,145,3,7,3,0
+314,Jalan Riau,4,312,96,8,10,4,0
+315,Garuda Raya,2,388,103,9,6,2,0
+316,Sengon,3,225,157,4,10,3,0
+317,Arah Sentul Selatan/Tol Lingkar Bogor/Jakarta,2,1127,120,20,13,2,1
+318,Exit 40: Bogor/Kebun Raya,3,712,205,16,5,3,2
+319,Deudeul,4,159,177,3,7,4,0
+320,Lolongok,2,283,91,5,6,2,0
+321,Salvador 1,4,199,218,3,9,4,0
+322,Majapahit,1,530,66,10,9,1,2
+323,Bitungsari,3,596,183,10,9,3,2
+324,Fajar Baru,4,322,116,8,6,4,0
+325,Purnawarman Raya,4,175,125,5,8,4,0
+326,Pesona Cilebut 2,2,373,113,7,2,2,0
+327,Sukamanah,4,311,120,5,8,4,0
+328,Garuda 1,4,160,222,2,11,4,0
+329,Partibi,4,213,108,6,8,4,0
+330,Pembangunan 1,2,198,80,4,6,2,0
+331,Bogor Raya Permai,3,355,92,7,4,3,0
+332,Pasir Mulya,2,170,77,5,5,2,0
+333,Putaran Kujang,5,49,-1,0,30,5,0
+334,Sukasari 3,3,280,156,6,6,3,0
+335,Jagung,4,200,188,4,8,4,0
+336,Waterfall Blvd,3,202,165,3,9,3,0
+337,Arah Tol Bogor Lingkar Luar,4,190,118,5,5,4,0
+338,Arah Cibanon/Gunung Geulis,2,700,82,20,8,2,2
+339,Batu Hulung,3,318,106,6,5,3,0
+340,Kenanga Raya,4,176,128,4,9,4,0
+341,Griya Melati 2,4,215,162,4,8,4,0
+342,Geografi,4,266,165,5,10,4,0
+343,Johar 2,4,166,162,3,7,4,0
+344,Cilubang Tonggoh,2,270,146,5,5,2,0
+345,Purnawarman,3,457,131,10,6,3,2
+346,Sukasari 2,4,311,92,7,10,4,0
+347,Kencana Residence,3,212,95,6,4,3,0
+348,Palupuh 1,4,201,122,5,9,4,0
+349,Swadaya,2,229,130,4,10,2,0
+350,Cluster Oakwood,3,417,136,9,11,3,0
+351,Cilubang,2,406,110,6,6,2,0
+352,Gang Masjid Al-Abrar,3,375,135,8,7,3,0
+353,Bunga Raya,3,473,96,12,5,3,2
+354,Arah Ciawi/Jakarta (Lewat Jalan Tol),4,365,119,9,7,4,0
+355,Perum Sindang Barang,4,200,766,1,10,4,0
+356,Duta Parahyangan,4,158,110,5,6,4,0
+357,Rimba Mulya 2,4,275,101,8,3,4,0
+358,Taman Sari Persada,3,403,94,8,8,3,0
+359,GOR Pajajaran,4,321,82,6,4,4,0
+360,Gang Puma,3,555,115,13,7,3,2
+361,Nyalindung,2,328,94,6,7,2,0
+362,Layungsari 3,2,249,115,5,6,2,0
+363,Dekeng Atas Raya,2,321,80,9,11,2,0
+364,Taman Sari 4,4,210,136,5,9,4,0
+365,Beo,3,228,130,4,4,3,0
+366,Kemuning,4,320,96,6,9,4,0
+367,Gang Ikan Mas,4,211,160,4,10,4,0
+368,Exit 8: Yasmin/Dramaga/Parung,2,672,78,20,3,2,2
+369,Rangkong,1,332,61,8,7,1,0
+370,Semboja,4,340,101,9,2,4,0
+371,Arah Bogor/Cibinong/Jakarta,3,667,130,16,6,3,2
+372,Jaya Tunggal,4,188,118,4,6,4,0
+373,Hegarmanah 4,4,275,82,7,9,4,0
+374,Mataram,4,360,131,5,10,4,0
+375,P dan K,3,389,96,9,10,3,0
+376,Rusdarmoyo,4,184,88,4,8,4,0
+377,Pakis Gunung 1,4,270,107,8,9,4,0
+378,Malabar Ujung,2,275,141,4,4,2,0
+379,Vila Mutiara Bogor,4,314,80,8,4,4,0
+380,Kayu Manis,4,268,116,7,10,4,0
+381,Bismarckia,4,213,114,6,11,4,0
+382,Meranti,3,428,97,9,5,3,0
+383,Jalan Cimandiri,4,157,218,2,2,4,0
+384,Pangulaan,4,584,190,11,12,4,2
+385,Waliwis,4,221,669,1,6,4,0
+386,Bojong Baru,2,252,97,6,2,2,0
+387,Haji Entong Usan,4,477,113,9,6,4,2
+388,Pesantren,2,389,70,9,8,2,0
+389,Taman Cimanggu Bulevar,3,335,138,5,4,3,0
+390,Taman Sari 2,3,281,144,4,7,3,0
+391,Arah Tol Lingkar Luar Bogor/Kedung Halang/Dramaga,4,215,114,6,1,4,0
+392,Kiara Residence,1,292,71,6,10,1,0
+393,Pasir Mulya Raya,2,288,80,7,9,2,0
+394,Tajur Indah,4,194,147,4,3,4,0
+395,Cimanggu Lamping,2,222,433,1,7,2,0
+396,Jalan Kantin,2,219,104,4,8,2,0
+397,Situpete,2,591,71,7,2,2,2
+398,Swadaya 1,4,261,204,4,10,4,0
+399,Heulang,3,203,110,4,7,3,0
+400,Tarumanegara Raya,3,282,112,7,6,3,0
+401,Airlangga,4,175,136,4,4,4,0
+402,Tasmania Raya,4,427,86,7,8,4,0
+403,Tirta Mas Residence,4,233,64,6,8,4,0
+404,Munjul Kayu Manis,3,163,137,3,6,3,0
+405,Raflesia Raya,4,311,136,6,8,4,0
+406,Terra Griya,4,254,126,6,8,4,0
+407,Tatapakan 2,4,163,129,4,9,4,0
+408,Taman Pajajaran Raya,2,291,70,7,7,2,0
+409,Parkit,4,303,82,7,3,4,0
+410,Istana Bunga Raya,4,309,88,8,7,4,0
+411,Jalan Cibalok,2,165,73,4,4,2,0
+412,Pelita Jaya 1,4,283,158,6,8,4,0
+413,Balitro,4,362,124,9,4,4,0
+414,Bhayangkara,2,300,79,7,9,2,0
+415,Brawijaya,2,228,75,6,6,2,0
+416,Cilendek Timur,4,471,1426,1,5,4,2
+417,Sawo,4,193,128,5,6,4,0
+418,Wijaya Kusuma Raya,2,356,110,7,6,2,0
+419,Baranangsiang 3,3,200,88,5,10,3,0
+420,Perumahan PKPN,2,254,98,6,6,2,0
+421,Griya Indah,4,289,172,5,9,4,0
+422,Jalan Bali,4,200,128,5,9,4,0
+423,Gang Baru,4,188,110,5,4,4,0
+424,Jalan Papandayan,4,218,140,5,6,4,0
+425,Anggrek 12,3,379,123,9,6,3,0
+426,Mawar 3,4,198,251,3,7,4,0
+427,Exit 42: Bogor Selatan/Sukaraja/Cibanon,4,390,216,6,17,4,0
+428,Panorama 6,4,289,170,5,4,4,0
+429,Angsana,4,191,114,4,7,4,0
+430,Komplek Sindangbarang IPB 1,4,252,127,6,11,4,0
+431,Exit Taman Safari/Puncak/Bandung,4,217,176,4,6,4,0
+432,Pondok Rumput,3,220,170,4,2,3,0
+433,Perum Kebun Raya,4,253,80,6,8,4,0
+434,Dharma Bakti,4,235,128,6,8,4,0
+435,Otto Iskandardinata,4,29,126,1,4,4,0
+436,Babadak,2,522,118,6,4,2,2
+437,Cimanggu Residence,4,198,130,5,5,4,0
+438,Green Land,4,191,132,4,6,4,0
+439,Nagrog,4,199,120,5,7,4,0
+440,Gang Pasamah,4,218,114,4,5,4,0
+441,Taman Cimanggu Tengah,4,280,127,6,6,4,0
+442,Kelor Raya,2,268,83,5,6,2,0
+443,Cimanggu Permai 1,3,203,63,6,5,3,0
+444,Penggalang,4,354,122,9,4,4,0
+445,Pajajaran,2,857,87,16,1,2,2
+446,Kebon Kelapa,3,406,104,11,9,3,0
+447,Duta Pelangi,4,299,105,9,1,4,0
+448,Nusa Indah Raya,2,189,60,5,2,2,0
+449,Medika,3,430,105,11,9,3,0
+450,Jalan Parakan Jaya,2,661,96,8,8,2,2
+451,Al-Hasanah,4,205,119,5,9,4,0
+452,Taman Kenari,2,196,103,4,6,2,0
+453,Sedap Malam,4,355,138,8,8,4,0
